@@ -1,0 +1,98 @@
+[
+    {
+      "city_id": 1,
+      "name": "Paris",
+      "landmarks": [
+        {
+          "landmark_id": 1,
+          "name": "Eiffel Tower",
+          "description": "Iconic wrought-iron tower and Paris skyline symbol.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+        },
+        {
+          "landmark_id": 2,
+          "name": "Louvre Museum",
+          "description": "Historic museum home to vast art collections.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Louvre_Museum_Wikimedia_Commons.jpg"
+        },
+        {
+          "landmark_id": 3,
+          "name": "Notre-Dame Cathedral",
+          "description": "Famed Gothic cathedral on Île de la Cité.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/NotreDameDeParis.jpg"
+        }
+      ]
+    },
+    {
+      "city_id": 2,
+      "name": "New York",
+      "landmarks": [
+        {
+          "landmark_id": 1,
+          "name": "Statue of Liberty",
+          "description": "Monument symbolizing freedom on Liberty Island.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg%22"
+        },
+        {
+          "landmark_id": 2,
+          "name": "Central Park",
+          "description": "Large urban park with lakes, trails, and landmarks.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Central_Park_New_York_May_2015_006.jpg"
+        },
+        {
+          "landmark_id": 3,
+          "name": "Empire State Building",
+          "description": "Art Deco skyscraper with observatories.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/NYC_Empire_State_Building.jpg"
+        }
+      ]
+    },
+    {
+      "city_id": 3,
+      "name": "Tokyo",
+      "landmarks": [
+        {
+          "landmark_id": 1,
+          "name": "Tokyo Tower",
+          "description": "Red-and-white communications tower with views.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg"
+        },
+        {
+          "landmark_id": 2,
+          "name": "Senso-ji Temple",
+          "description": "Ancient Buddhist temple in Asakusa district.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sensoji_Temple_Tokyo.jpg"
+        },
+        {
+          "landmark_id": 3,
+          "name": "Shibuya Crossing",
+          "description": "Busy pedestrian scramble intersection.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Shibuya_Crossing,_Aerial.jpg"
+        }
+      ]
+    },
+    {
+      "city_id": 4,
+      "name": "Rome",
+      "landmarks": [
+        {
+          "landmark_id": 1,
+          "name": "Colosseum",
+          "description": "Ancient amphitheater known for gladiatorial history.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Colosseo_di_Roma_panoramic.jpg"
+        },
+        {
+          "landmark_id": 2,
+          "name": "Pantheon",
+          "description": "Well-preserved Roman temple with oculus dome.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pantheon_Rome.jpg"
+        },
+        {
+          "landmark_id": 3,
+          "name": "Trevi Fountain",
+          "description": "Baroque fountain famed for coin-throwing tradition.",
+          "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Trevi_Fountain_Rome.jpg"
+        }
+      ]
+    }
+]
